@@ -1,5 +1,5 @@
 ## Overview
-Create a full-stack web application for food enthusiasts to share and discover recipes. The platform should allow users to post their own recipes, browse recipes shared by others, and interact through comments and ratings.
+A full-stack web application for food enthusiasts to share and discover recipes. The platform should allow users to post their own recipes, browse recipes shared by others, and interact through comments and ratings.
 
 ## Technical Requirements
 
