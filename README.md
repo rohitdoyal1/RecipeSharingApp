@@ -44,3 +44,8 @@ A full-stack web application for food enthusiasts to share and discover recipes.
 5. Home Page
    - Display recently added recipes
    - Show a featured recipe of the day
+  
+6. DEMO Video
+Video 1 :https://drive.google.com/file/d/1Xv3sYbDt92r7055SdYUFZRaLwpVtD7LJ/view?usp=sharing
+Video 2: https://drive.google.com/file/d/1QvJVwWiGAS1_Y2_8_snaLhb1zgmsistg/view?usp=sharing
+Video 3: https://drive.google.com/file/d/1htXUDpqBaCXswVmQeOkN5CVxzPgqlj16/view?usp=sharing
